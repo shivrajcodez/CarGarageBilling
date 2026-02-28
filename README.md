@@ -32,7 +32,9 @@ Clone the repo:
 git clone https://github.com/shivrajcodez/CarGarageBilling.git
 Open the project in your fav IDE (like IntelliJ or VSCode with Java support) and run the main class.
 
-How to Use
+---
+
+## How to Use
 
 Open the app
 
@@ -44,7 +46,7 @@ System auto-calculates bill
 
 Save or export invoice
 
-Contributing
+## Contributing
 
 If you wanna help improve this, dope! Just:
 
@@ -56,11 +58,11 @@ Do your thing
 
 Create a PR
 
-License
+## License
 
 This project rocks the MIT License — free to use + remix. (Check the LICENSE file!)
 
-About Me
+## About Me
 
 Made by Shivraj Mohite — passionate coder and garage billing wizard.
 
